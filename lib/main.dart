@@ -28,7 +28,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Google ML Kit Demo App'),
+        title: Text('OERS'),
         centerTitle: true,
         elevation: 0,
       ),
